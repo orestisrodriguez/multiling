@@ -1,0 +1,9 @@
+{
+  "name": "multiling",
+  "version": "1.0.0",
+  "description": "A powerful and easy i18n utility",
+  "main": "index.js",
+  "repository": "https://github.com/orestisrodriguez/multiling",
+  "author": "Orestis Rodriguez",
+  "license": "MIT"
+}
